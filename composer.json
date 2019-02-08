@@ -1,0 +1,14 @@
+{
+    "name": "kercode3/test-techniques",
+    "authors": [
+        {
+            "name": "pasc2018kerc2019",
+            "email": "folgofirst@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.0",
+        "symfony/yaml": "^4.2",
+        "psy/psysh": "^0.9.9"
+    }
+}
